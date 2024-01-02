@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_RankingRankingIMDb ratingRelease dateN_72c26b</name>
+   <tag></tag>
+   <elementGuidId>2e29394d-7135-497a-bdc6-5dd756b1a4c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ipc-simple-select.ipc-simple-select--base.ipc-simple-select--on-accent2.sc-78613a87-1.cnvvrm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div[3]/section/div/div[2]/div/div[3]/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e76c4a6c-98fa-49d4-ad67-9889414bc4eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ipc-simple-select ipc-simple-select--base ipc-simple-select--on-accent2 sc-78613a87-1 cnvvrm</value>
+      <webElementGuid>1e1c5f17-828e-407d-b10f-d242d313b9ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RankingRankingIMDb ratingRelease dateNumber of ratingsAlphabeticalPopularityRuntime</value>
+      <webElementGuid>4b015f4f-cc80-44a6-873c-f441d079f2bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;ipc-page-wrapper ipc-page-wrapper--baseAlt&quot;]/div[@class=&quot;ipc-page-content-container ipc-page-content-container--center sc-872d7ac7-0 fqEQWL&quot;]/div[@class=&quot;ipc-page-content-container ipc-page-content-container--center&quot;]/section[@class=&quot;ipc-page-background ipc-page-background--base sc-e9255ef2-0 hXKYRL&quot;]/div[1]/div[@class=&quot;ipc-page-grid ipc-page-grid--bias-left&quot;]/div[@class=&quot;sc-e9255ef2-3 bkLQGk ipc-page-grid__item ipc-page-grid__item--span-2&quot;]/div[@class=&quot;sc-e9255ef2-2 iOkmfp&quot;]/div[@class=&quot;sc-78613a87-0 idpjnd&quot;]/span[@class=&quot;ipc-simple-select__container&quot;]/span[@class=&quot;ipc-simple-select ipc-simple-select--base ipc-simple-select--on-accent2 sc-78613a87-1 cnvvrm&quot;]</value>
+      <webElementGuid>d0b48093-2165-447a-b3f0-f42c73f0d8fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div[3]/section/div/div[2]/div/div[3]/div/span/span</value>
+      <webElementGuid>136c3f44-d797-4550-8750-a2c576cef343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>ab95e9fe-ee3d-4d32-a7bf-4ffb18ec2a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'RankingRankingIMDb ratingRelease dateNumber of ratingsAlphabeticalPopularityRuntime' or . = 'RankingRankingIMDb ratingRelease dateNumber of ratingsAlphabeticalPopularityRuntime')]</value>
+      <webElementGuid>cde4f523-37f2-40eb-9257-5c68d52b4700</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Katalon Studio</name>
+   <tag></tag>
+   <elementGuidId>89f3d2d3-8794-4cfb-bfe6-bdcb316d056c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.suggestion-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='typeahead-suggestions']/div/a/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>0240137e-1780-403b-8524-30d6a3369aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>suggestion-title</value>
+      <webElementGuid>e121f03f-dbc8-455c-b3ab-0ea4408ad2e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Studio</value>
+      <webElementGuid>86ede9f2-b416-4224-ac91-a38c2d9bc47a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;typeahead-suggestions&quot;)/div[@class=&quot;suggestions-dropdown&quot;]/a[@class=&quot;suggestion-link active&quot;]/div[@class=&quot;suggestion-text&quot;]/h3[@class=&quot;suggestion-title&quot;]</value>
+      <webElementGuid>0d221a71-494f-4eb1-9453-93eb50c7c560</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='typeahead-suggestions']/div/a/div/h3</value>
+      <webElementGuid>e36d8ddc-a3e2-4260-a116-2d945751856e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>58af42ed-4a51-4ef1-bf4b-36be2beef0c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Katalon Studio' or . = 'Katalon Studio')]</value>
+      <webElementGuid>44950927-f445-4527-85a5-75392555d578</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

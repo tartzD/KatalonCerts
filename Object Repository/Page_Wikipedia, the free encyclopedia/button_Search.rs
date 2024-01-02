@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Search</name>
+   <tag></tag>
+   <elementGuidId>de788824-2714-49ea-8bd8-c594ce89d204</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.cdx-button.cdx-search-input__end-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='searchform']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e07a4707-2835-440e-b656-b1cb57a0ee1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdx-button cdx-search-input__end-button</value>
+      <webElementGuid>f83e8790-4f49-436b-b4ce-26c8947a1fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>65e50f19-3f91-4b54-af65-96436bbd8738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchform&quot;)/button[@class=&quot;cdx-button cdx-search-input__end-button&quot;]</value>
+      <webElementGuid>9cc8013e-eac8-4fb4-84e0-f312e4835281</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='searchform']/button</value>
+      <webElementGuid>02869f5e-5b00-4348-9e0a-c98a0d01d168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>6377273c-6dd5-41dd-b8f1-5a47337b354f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>3b19ab09-a2ec-46f8-bd09-f19eeea7757a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

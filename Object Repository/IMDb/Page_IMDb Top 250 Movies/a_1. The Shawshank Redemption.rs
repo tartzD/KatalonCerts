@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1. The Shawshank Redemption</name>
+   <tag></tag>
+   <elementGuidId>8d3c75d1-63f1-423b-b1eb-a374388e0507</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ipc-poster-card__title.ipc-poster-card__title--clamp-2.ipc-poster-card__title--clickable.sc-448ff634-1.erBfmx.gli-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div[3]/section/div/div[2]/div/div[4]/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e6fd04f5-1646-4752-8367-ef7ec8e34bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ipc-poster-card__title ipc-poster-card__title--clamp-2 ipc-poster-card__title--clickable sc-448ff634-1 erBfmx gli-title</value>
+      <webElementGuid>657a98ba-7c1b-4026-8955-c4513b1ed658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Go to 1. The Shawshank Redemption</value>
+      <webElementGuid>137f8462-764a-46f5-a546-40b67d2cae88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/title/tt0111161/?ref_=chttp_t_1</value>
+      <webElementGuid>4bfd4226-46ea-45dd-97bc-9e4df5def8fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. The Shawshank Redemption</value>
+      <webElementGuid>825daf31-fc3f-47f7-9a7c-727160bf5987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;ipc-page-wrapper ipc-page-wrapper--baseAlt&quot;]/div[@class=&quot;ipc-page-content-container ipc-page-content-container--center sc-872d7ac7-0 fqEQWL&quot;]/div[@class=&quot;ipc-page-content-container ipc-page-content-container--center&quot;]/section[@class=&quot;ipc-page-background ipc-page-background--base sc-e9255ef2-0 hXKYRL&quot;]/div[1]/div[@class=&quot;ipc-page-grid ipc-page-grid--bias-left&quot;]/div[@class=&quot;sc-e9255ef2-3 bkLQGk ipc-page-grid__item ipc-page-grid__item--span-2&quot;]/div[@class=&quot;ipc-sub-grid ipc-sub-grid--page-span-2 ipc-sub-grid--wrap ipc-sub-grid--omit-both grid-list-view&quot;]/div[@class=&quot;ipc-poster-card ipc-poster-card--base ipc-poster-card--dynamic-width sc-448ff634-0 eIlAgD gli-parent ipc-sub-grid-item ipc-sub-grid-item--span-2&quot;]/div[@class=&quot;sc-448ff634-4 dJizIe&quot;]/div[@class=&quot;sc-448ff634-5 jfCRyP&quot;]/a[@class=&quot;ipc-poster-card__title ipc-poster-card__title--clamp-2 ipc-poster-card__title--clickable sc-448ff634-1 erBfmx gli-title&quot;]</value>
+      <webElementGuid>5f640bde-2e6c-4ed0-ba6b-3c586a937623</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div[3]/section/div/div[2]/div/div[4]/div/div[2]/div/a</value>
+      <webElementGuid>4a6f15e9-1159-47f6-8e36-38554f2f27aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'1. The Shawshank Redemption')]</value>
+      <webElementGuid>42f26f2e-d823-4ebf-a937-5aa67c009998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/title/tt0111161/?ref_=chttp_t_1')]</value>
+      <webElementGuid>b3be5898-c9e7-4b02-97b1-d06226d276fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/a</value>
+      <webElementGuid>bc4b3b6a-70c9-4a52-873d-b3baf8bc76a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/title/tt0111161/?ref_=chttp_t_1' and (text() = '1. The Shawshank Redemption' or . = '1. The Shawshank Redemption')]</value>
+      <webElementGuid>7bd0033d-241c-468a-86a7-a38936c4c3e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

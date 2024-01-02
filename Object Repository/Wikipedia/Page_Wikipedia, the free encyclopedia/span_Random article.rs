@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Random article</name>
+   <tag></tag>
+   <elementGuidId>3d31179f-e2dd-411a-a387-1631dbc6c908</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Visit a randomly selected article [alt-shift-x]&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='n-randompage']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>87ef4d37-fd65-43d4-a344-f73a7d299cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Random article</value>
+      <webElementGuid>be8d773f-59d2-46d3-906b-a533f54ec009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;n-randompage&quot;)/a[1]/span[1]</value>
+      <webElementGuid>edc28a7a-8920-4eb6-b1fd-6442e3db6e05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='n-randompage']/a/span</value>
+      <webElementGuid>e7ae1f2b-a727-4543-910d-eb80f43fc173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span</value>
+      <webElementGuid>2a4b8403-7e40-4935-b57a-f3dafc6a149a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Random article' or . = 'Random article')]</value>
+      <webElementGuid>e7f91430-2fd8-4e33-8460-476ddbe0e479</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

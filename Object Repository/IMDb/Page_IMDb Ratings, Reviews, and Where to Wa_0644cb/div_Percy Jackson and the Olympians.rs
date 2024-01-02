@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Percy Jackson and the Olympians</name>
+   <tag></tag>
+   <elementGuidId>a9525a86-e818-4dfd-9cc9-f53522067624</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-bkbjWr.pfibY.searchResult__constTitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='react-autowhatever-navSuggestionSearch--item-0']/a/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>22fe627d-3325-4365-858e-787e927a4ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-bkbjWr pfibY searchResult__constTitle</value>
+      <webElementGuid>398b7008-eb80-438a-ab1b-4e90c8da19c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Percy Jackson and the Olympians</value>
+      <webElementGuid>fcda7624-7d82-4d29-a333-64099ce79983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-autowhatever-navSuggestionSearch--item-0&quot;)/a[@class=&quot;sc-fnVZQs fJJkbo searchResult--active searchResult searchResult--const&quot;]/div[@class=&quot;sc-fFSPgy ihPlnu&quot;]/div[@class=&quot;sc-bkbjWr pfibY searchResult__constTitle&quot;]</value>
+      <webElementGuid>4df3876b-bc12-47da-88d6-fea6addd2baa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='react-autowhatever-navSuggestionSearch--item-0']/a/div[2]/div</value>
+      <webElementGuid>34a72131-146d-4683-98fa-c293ae45913a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]/div</value>
+      <webElementGuid>617c4537-aa0b-4180-ac30-fe4fc3d42c3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Percy Jackson and the Olympians' or . = 'Percy Jackson and the Olympians')]</value>
+      <webElementGuid>9da63cb4-db73-4057-b108-7514d9c82c2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
