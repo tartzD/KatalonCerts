@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to https://katalon-demo-cura.herokuapp.com/</description>
+   <name>LoginNoSS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9346d980-fab7-48fc-ab63-63bb9fa00e3c</testCaseGuid>
+</TestCaseEntity>

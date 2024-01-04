@@ -22,7 +22,7 @@
       <guid>91d77ea0-f1a0-4022-a222-eae1114b17f3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Healthcare/Booking an appointment</testCaseId>
+      <testCaseId>Test Cases/Healthcare/BookingAnAppointment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
